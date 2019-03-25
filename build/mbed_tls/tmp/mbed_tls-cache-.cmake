@@ -1,0 +1,2 @@
+
+set(CMAKE_POSITION_INDEPENDENT_CODE "true" CACHE BOOL "Initial cache" FORCE)

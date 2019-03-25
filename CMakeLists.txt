@@ -69,5 +69,3 @@ add_executable(c_interface_test
 # Standard linking to gtest stuff.
 target_link_libraries(c_interface_test gtest gtest_main ${PROJECT_NAME} pthread)
 
-add_test(c_interface_test c_interface_test)
-
